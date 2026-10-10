@@ -1,4 +1,15 @@
-Amazon Sales Analysis
+Dashboard Preview
+
+The dashboard highlights key business insights from Amazon sales data, including:
+
+- City with Maximum Sales
+- State with Maximum Sales
+- Most Profitable Product
+- Least Profitable Product
+
+Dashboard Screenshots
+
+Screenshots of the Excel dashboard are available in the "02_Dashboard_Screenshots" folder.Amazon Sales Analysis
 
 Project Overview
 
