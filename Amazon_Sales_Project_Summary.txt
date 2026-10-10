@@ -1,0 +1,34 @@
+Amazon Sales Analysis — Project Summary
+
+1. Project Overview
+
+This project analyzes Amazon sales data using Microsoft Excel to understand sales performance and discover useful business insights.
+
+2. Tools and Skills
+
+- Microsoft Excel
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Charts and Reporting
+
+3. Project Objectives
+
+- Analyze sales data.
+- Identify sales trends and patterns.
+- Examine product-wise sales performance.
+- Present information through charts and visualizations.
+
+4. Deliverables
+
+- Excel Analysis Workbook
+- Dashboard Screenshots
+- Project Documentation
+
+5. Business Value
+
+The analysis helps organize sales information, understand business performance, and support data-driven decision-making.
+
+6. Conclusion
+
+This project demonstrates my developing skills in Microsoft Excel, data analysis, and data visualization through practical project work.
